@@ -1,2 +1,1 @@
-# node-js
-Node-js-app
+# node-js-express-on-ec2
